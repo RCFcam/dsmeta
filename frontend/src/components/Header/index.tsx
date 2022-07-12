@@ -10,7 +10,7 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.instagram.com/devsuperior.ig/">@devsuperior.ig </a>
+                    <a href="https://www.linkedin.com/in/rodrigo-feijo-ab1ab633/overlay/contact-info/">@roderic.cf_DevSuperior </a>
                 </p>
             </div>
         </header>
